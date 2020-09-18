@@ -1,0 +1,10 @@
+#
+#Sat Sep 19 00:38:51 IST 2020
+linkedResources=
+managedNatures=org.eclipse.jdt.core.javanature
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n<classpathentry kind\="lib" path\="E\:/Softwares/My PC Apps/TestProject/Workspace/MyfirstProjectRegistration/lib/TestProject_SDK_0.62.0.jar"/>\r\n</classpath>\n
+subprojectPaths=
+derivedResources=.gradle;build
+buildScriptPath=build.gradle
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+buildDir=build
